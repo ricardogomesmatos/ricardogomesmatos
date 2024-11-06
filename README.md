@@ -18,17 +18,18 @@ Aqui compartilho conhecimento, projetos open-source e minha jornada no mundo de 
 
 
 🚀 Projetos Recentes & Destaques
-- Automação de ETL para Dados de BI
-Automatização de processamento de dados com Pentaho e Python para preparar relatórios BI com insights acionáveis.
-- Dashboard de Análise de Vendas no Power BI
+- **Pipeline de Dados para ETL & Integração**\
+Implementação de pipelines de dados em Databricks, end to end, com foco em preparação e processamento em larga escala para suporte a decisões estratégicas.
+- **Automação de ETL**\
+Automatização de processamento de dados com Pentaho e Python para migrar dados de várias fontes para um ERP.
+- **Dashboard de múltiplas análises no Power BI**\
 Desenvolvimento de dashboards interativos para monitorar métricas e KPIs para visualização estratégica.
-- Pipeline de Dados para ETL & Integração
-Implementação de pipelines de dados em Databricks, com foco em preparação e processamento em larga escala para suporte a decisões estratégicas.
+
 <br>
 
 
 📈 Atividades Recentes
-- Contribuições recentes com Python e Power BI
-- Participação ativa em discussões sobre automação e boas práticas em BI
-- Compartilhamento de insights sobre estratégias de documentação e controle de versão no Git
+- Referência proativa em documentações;
+- Contribuições recentes com Python e Power BI;
+- Participação ativa em discussões sobre automação, Workflows e boas práticas em BI;
 
