@@ -1,17 +1,16 @@
 Aqui compartilho conhecimento, projetos open-source e minha jornada no mundo de dados e BI.
 
-🌱 Atualmente aprofundando conhecimentos em Databricks e Power BI\
-⚙️ Áreas de especialidade: SQL, Python, ETL, Power BI, Databricks, Pentaho\
+🌱 Atualmente aprofundando conhecimentos na áera de Engenharia de Dados\
+⚙️ Áreas de especialidade: Databricks, Pentaho, SQL, Python, ETL, Power BI\
 🧠 Pergunte-me sobre processamento de dados, ETL e criação de dashboards\
-💬 Entre em contato para discutir análise de dados, engenharia de dados e automação de pipelines\
+💬 Entre em contato para discutir Engenharia de Dados, Análise de Dados e Automação de Pipelines\
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ricardogomesmatos/) ou [e-mail](mailto:ricardogomesmatos@gmail.com)
 <br>
 <br>
 
 🌟 Principais Habilidades e Ferramentas
-- Linguagens: SQL, Python
+- Linguagens: SQL, Python, Databricks, Pentaho
 - Ferramentas de BI: Power BI, Google Data Studio
-- Ambientes de Big Data: Databricks, Pentaho Data Integration (PDI)
 - Bancos de Dados: SQL Server, MySQL, PostgreSQL
 - Metodologias e Frameworks: ETL, ELT, Modelagem de Dados, DevOps, Scrum
 <br>
